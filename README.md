@@ -11,7 +11,8 @@ There is no required to run the project, just clone it and open the run the inde
 #How dos it work
 
 The form view:
-
+<img src="https://github.com/FHOMT/DeliveryForm/blob/master/assest/form.png"/>
 
 The submission view:
+<img src="https://github.com/FHOMT/DeliveryForm/blob/master/assest/submission.png"/>
 
